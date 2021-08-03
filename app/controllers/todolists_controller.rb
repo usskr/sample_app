@@ -8,7 +8,7 @@ class TodolistsController < ApplicationController
     if @list.save
       redirect_to todolist_path(@list.id)
     else
-      redirect_to todolists_new_path
+      render :new
     end
   end
 
