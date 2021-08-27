@@ -1,2 +1,2 @@
-# DMM WEBCAMPコンテンツ【Railsを学ぼう】
-DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題です。
+## DMM WEBCAMP【Railsを学ぼう】
+DMM WEBCAMP学習コンテンツ 研修課題
